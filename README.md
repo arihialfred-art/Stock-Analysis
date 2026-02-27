@@ -102,9 +102,3 @@ Investors seeking stable growth may prioritize companies with strong CAGR and mo
 
 The analysis highlights the importance of balancing return with risk exposure.
 
----
-
-## 📷 Dashboard Preview
-
-
-## 📂 Repository Structure
